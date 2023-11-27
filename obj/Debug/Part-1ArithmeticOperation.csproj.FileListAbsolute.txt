@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-16\Assignment-21\Part-1ArithmeticOperation\Part-1ArithmeticOperation\bin\Debug\Part-1ArithmeticOperation.exe.config
+C:\mphasis-B2\Day-16\Assignment-21\Part-1ArithmeticOperation\Part-1ArithmeticOperation\bin\Debug\Part-1ArithmeticOperation.exe
+C:\mphasis-B2\Day-16\Assignment-21\Part-1ArithmeticOperation\Part-1ArithmeticOperation\bin\Debug\Part-1ArithmeticOperation.pdb
+C:\mphasis-B2\Day-16\Assignment-21\Part-1ArithmeticOperation\Part-1ArithmeticOperation\obj\Debug\Part-1ArithmeticOperation.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-16\Assignment-21\Part-1ArithmeticOperation\Part-1ArithmeticOperation\obj\Debug\Part-1ArithmeticOperation.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-16\Assignment-21\Part-1ArithmeticOperation\Part-1ArithmeticOperation\obj\Debug\Part-1ArithmeticOperation.exe
+C:\mphasis-B2\Day-16\Assignment-21\Part-1ArithmeticOperation\Part-1ArithmeticOperation\obj\Debug\Part-1ArithmeticOperation.pdb
